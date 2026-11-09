@@ -9,7 +9,7 @@
 > you. Play on servers at your own risk.
 
 A Minecraft: Bedrock Edition client written from scratch in Rust. It plays on real servers, Realms
-and friends' worlds with vanilla behaviour, and it's built to run much faster than the official
+and friends' worlds or not with vanilla behaviour, and it's built to run much faster than the official
 client.
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/MeEz7BEHcM)
